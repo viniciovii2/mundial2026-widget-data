@@ -10,17 +10,9 @@
       "grupo": "Grupo A",
       "fecha_display": "Jue, 11/6",
       "hora_display": "2:00 p.m.",
-      "estadio": "Por definir",
-      "local": {
-        "nombre": "México",
-        "codigo_iso": "MX",
-        "goles": 0
-      },
-      "visitante": {
-        "nombre": "Sudáfrica",
-        "codigo_iso": "ZA",
-        "goles": 0
-      },
+      "estadio": "Estadio Azteca, CDMX",
+      "local": { "nombre": "México", "codigo_iso": "MX", "goles": 0 },
+      "visitante": { "nombre": "Sudáfrica", "codigo_iso": "ZA", "goles": 0 },
       "estado": "POR_JUGAR"
     },
     {
@@ -29,17 +21,9 @@
       "grupo": "Grupo A",
       "fecha_display": "Jue, 11/6",
       "hora_display": "9:00 p.m.",
-      "estadio": "Por definir",
-      "local": {
-        "nombre": "Corea del Sur",
-        "codigo_iso": "KR",
-        "goles": 0
-      },
-      "visitante": {
-        "nombre": "Chequia",
-        "codigo_iso": "CZ",
-        "goles": 0
-      },
+      "estadio": "Estadio BBVA, Monterrey",
+      "local": { "nombre": "Corea del Sur", "codigo_iso": "KR", "goles": 0 },
+      "visitante": { "nombre": "Chequia", "codigo_iso": "CZ", "goles": 0 },
       "estado": "POR_JUGAR"
     },
     {
@@ -48,17 +32,9 @@
       "grupo": "Grupo B",
       "fecha_display": "Vie, 12/6",
       "hora_display": "2:00 p.m.",
-      "estadio": "Por definir",
-      "local": {
-        "nombre": "Canadá",
-        "codigo_iso": "CA",
-        "goles": 0
-      },
-      "visitante": {
-        "nombre": "Bosnia y Herzegovina",
-        "codigo_iso": "BA",
-        "goles": 0
-      },
+      "estadio": "BC Place, Vancouver",
+      "local": { "nombre": "Canadá", "codigo_iso": "CA", "goles": 0 },
+      "visitante": { "nombre": "Bosnia y Herzegovina", "codigo_iso": "BA", "goles": 0 },
       "estado": "POR_JUGAR"
     },
     {
@@ -67,17 +43,31 @@
       "grupo": "Grupo D",
       "fecha_display": "Vie, 12/6",
       "hora_display": "8:00 p.m.",
-      "estadio": "Por definir",
-      "local": {
-        "nombre": "Estados Unidos",
-        "codigo_iso": "US",
-        "goles": 0
-      },
-      "visitante": {
-        "nombre": "Paraguay",
-        "codigo_iso": "PY",
-        "goles": 0
-      },
+      "estadio": "SoFi Stadium, Los Ángeles",
+      "local": { "nombre": "Estados Unidos", "codigo_iso": "US", "goles": 0 },
+      "visitante": { "nombre": "Paraguay", "codigo_iso": "PY", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 5,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo B",
+      "fecha_display": "Sáb, 13/6",
+      "hora_display": "2:00 p.m.",
+      "estadio": "Gillette Stadium, Boston",
+      "local": { "nombre": "Catar", "codigo_iso": "QA", "goles": 0 },
+      "visitante": { "nombre": "Suiza", "codigo_iso": "CH", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 6,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo C",
+      "fecha_display": "Sáb, 13/6",
+      "hora_display": "5:00 p.m.",
+      "estadio": "MetLife Stadium, Nueva York",
+      "local": { "nombre": "Brasil", "codigo_iso": "BR", "goles": 0 },
+      "visitante": { "nombre": "Marruecos", "codigo_iso": "MA", "goles": 0 },
       "estado": "POR_JUGAR"
     }
   ],
@@ -89,6 +79,29 @@
         { "posicion": 2, "equipo": "Sudáfrica", "codigo_iso": "ZA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
         { "posicion": 3, "equipo": "Corea del Sur", "codigo_iso": "KR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
         { "posicion": 4, "equipo": "Chequia", "codigo_iso": "CZ", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo B",
+      "tabla": [
+        { "posicion": 1, "equipo": "Canadá", "codigo_iso": "CA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Bosnia y Herzegovina", "codigo_iso": "BA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Catar", "codigo_iso": "QA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Suiza", "codigo_iso": "CH", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo C",
+      "tabla": [
+        { "posicion": 1, "equipo": "Brasil", "codigo_iso": "BR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Marruecos", "codigo_iso": "MA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo D",
+      "tabla": [
+        { "posicion": 1, "equipo": "Estados Unidos", "codigo_iso": "US", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Paraguay", "codigo_iso": "PY", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
       ]
     }
   ]
