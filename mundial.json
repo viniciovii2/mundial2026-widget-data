@@ -11,9 +11,9 @@
       "fecha_display": "Jue, 11/6",
       "hora_display": "2:00 p.m.",
       "estadio": "Estadio Azteca, CDMX",
-      "local": { "nombre": "México", "codigo_iso": "MX", "goles": 2 },
-      "visitante": { "nombre": "Sudáfrica", "codigo_iso": "ZA", "goles": 1 },
-      "estado": "FINALIZADO"
+      "local": { "nombre": "México", "codigo_iso": "MX", "goles": 0 },
+      "visitante": { "nombre": "Sudáfrica", "codigo_iso": "ZA", "goles": 0 },
+      "estado": "POR_JUGAR"
     },
     {
       "id": 2,
