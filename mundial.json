@@ -1,0 +1,95 @@
+{
+  "metadatos": {
+    "ultima_actualizacion": "2026-06-01T15:00:00Z",
+    "alerta_mensaje": ""
+  },
+  "partidos": [
+    {
+      "id": 1,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo A",
+      "fecha_display": "Jue, 11/6",
+      "hora_display": "2:00 p.m.",
+      "estadio": "Por definir",
+      "local": {
+        "nombre": "México",
+        "codigo_iso": "MX",
+        "goles": 0
+      },
+      "visitante": {
+        "nombre": "Sudáfrica",
+        "codigo_iso": "ZA",
+        "goles": 0
+      },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 2,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo A",
+      "fecha_display": "Jue, 11/6",
+      "hora_display": "9:00 p.m.",
+      "estadio": "Por definir",
+      "local": {
+        "nombre": "Corea del Sur",
+        "codigo_iso": "KR",
+        "goles": 0
+      },
+      "visitante": {
+        "nombre": "Chequia",
+        "codigo_iso": "CZ",
+        "goles": 0
+      },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 3,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo B",
+      "fecha_display": "Vie, 12/6",
+      "hora_display": "2:00 p.m.",
+      "estadio": "Por definir",
+      "local": {
+        "nombre": "Canadá",
+        "codigo_iso": "CA",
+        "goles": 0
+      },
+      "visitante": {
+        "nombre": "Bosnia y Herzegovina",
+        "codigo_iso": "BA",
+        "goles": 0
+      },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 4,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo D",
+      "fecha_display": "Vie, 12/6",
+      "hora_display": "8:00 p.m.",
+      "estadio": "Por definir",
+      "local": {
+        "nombre": "Estados Unidos",
+        "codigo_iso": "US",
+        "goles": 0
+      },
+      "visitante": {
+        "nombre": "Paraguay",
+        "codigo_iso": "PY",
+        "goles": 0
+      },
+      "estado": "POR_JUGAR"
+    }
+  ],
+  "posiciones_grupos": [
+    {
+      "grupo": "Grupo A",
+      "tabla": [
+        { "posicion": 1, "equipo": "México", "codigo_iso": "MX", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Sudáfrica", "codigo_iso": "ZA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Corea del Sur", "codigo_iso": "KR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Chequia", "codigo_iso": "CZ", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    }
+  ]
+}
