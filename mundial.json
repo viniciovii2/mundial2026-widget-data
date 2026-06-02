@@ -21,7 +21,7 @@
       "grupo": "Grupo A",
       "fecha_display": "Jue, 11/6",
       "fecha_utc": "2026-06-12T02:00:00Z",
-      "estadio": "Estadio BBVA, Monterrey",
+      "estadio": "Estadio Akron, Guadalajara",
       "local": { "nombre": "Corea del Sur", "codigo_iso": "KR", "goles": 0 },
       "visitante": { "nombre": "Chequia", "codigo_iso": "CZ", "goles": 0 },
       "estado": "POR_JUGAR"
@@ -69,6 +69,1084 @@
       "local": { "nombre": "Brasil", "codigo_iso": "BR", "goles": 0 },
       "visitante": { "nombre": "Marruecos", "codigo_iso": "MA", "goles": 0 },
       "estado": "POR_JUGAR"
+    },
+    {
+      "id": 7,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo C",
+      "fecha_display": "Sáb, 13/6",
+      "fecha_utc": "2026-06-14T01:00:00Z",
+      "estadio": "Gillette Stadium, Boston",
+      "local": { "nombre": "Haití", "codigo_iso": "HT", "goles": 0 },
+      "visitante": { "nombre": "Escocia", "codigo_iso": "SCT", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 8,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo D",
+      "fecha_display": "Sáb, 13/6",
+      "fecha_utc": "2026-06-14T04:00:00Z",
+      "estadio": "BC Place, Vancouver",
+      "local": { "nombre": "Australia", "codigo_iso": "AU", "goles": 0 },
+      "visitante": { "nombre": "Turquía", "codigo_iso": "TR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 9,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo E",
+      "fecha_display": "Dom, 14/6",
+      "fecha_utc": "2026-06-14T17:00:00Z",
+      "estadio": "NRG Stadium, Houston",
+      "local": { "nombre": "Alemania", "codigo_iso": "DE", "goles": 0 },
+      "visitante": { "nombre": "Curazao", "codigo_iso": "CW", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 10,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo E",
+      "fecha_display": "Dom, 14/6",
+      "fecha_utc": "2026-06-14T23:00:00Z",
+      "estadio": "Lincoln Financial Field, Filadelfia",
+      "local": { "nombre": "Costa de Marfil", "codigo_iso": "CI", "goles": 0 },
+      "visitante": { "nombre": "Ecuador", "codigo_iso": "EC", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 11,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo F",
+      "fecha_display": "Dom, 14/6",
+      "fecha_utc": "2026-06-14T20:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "Países Bajos", "codigo_iso": "NL", "goles": 0 },
+      "visitante": { "nombre": "Japón", "codigo_iso": "JP", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 12,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo F",
+      "fecha_display": "Dom, 14/6",
+      "fecha_utc": "2026-06-15T02:00:00Z",
+      "estadio": "Estadio BBVA, Monterrey",
+      "local": { "nombre": "Suecia", "codigo_iso": "SE", "goles": 0 },
+      "visitante": { "nombre": "Túnez", "codigo_iso": "TN", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 13,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo G",
+      "fecha_display": "Lun, 15/6",
+      "fecha_utc": "2026-06-15T19:00:00Z",
+      "estadio": "Lumen Field, Seattle",
+      "local": { "nombre": "Bélgica", "codigo_iso": "BE", "goles": 0 },
+      "visitante": { "nombre": "Egipto", "codigo_iso": "EG", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 14,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo G",
+      "fecha_display": "Lun, 15/6",
+      "fecha_utc": "2026-06-16T01:00:00Z",
+      "estadio": "SoFi Stadium, Los Ángeles",
+      "local": { "nombre": "Irán", "codigo_iso": "IR", "goles": 0 },
+      "visitante": { "nombre": "Nueva Zelanda", "codigo_iso": "NZ", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 15,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo H",
+      "fecha_display": "Lun, 15/6",
+      "fecha_utc": "2026-06-15T16:00:00Z",
+      "estadio": "Mercedes-Benz Stadium, Atlanta",
+      "local": { "nombre": "España", "codigo_iso": "ES", "goles": 0 },
+      "visitante": { "nombre": "Cabo Verde", "codigo_iso": "CV", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 16,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo H",
+      "fecha_display": "Lun, 15/6",
+      "fecha_utc": "2026-06-15T22:00:00Z",
+      "estadio": "Hard Rock Stadium, Miami",
+      "local": { "nombre": "Arabia Saudita", "codigo_iso": "SA", "goles": 0 },
+      "visitante": { "nombre": "Uruguay", "codigo_iso": "UY", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 17,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo I",
+      "fecha_display": "Mar, 16/6",
+      "fecha_utc": "2026-06-16T19:00:00Z",
+      "estadio": "MetLife Stadium, Nueva York",
+      "local": { "nombre": "Francia", "codigo_iso": "FR", "goles": 0 },
+      "visitante": { "nombre": "Senegal", "codigo_iso": "SN", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 18,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo I",
+      "fecha_display": "Mar, 16/6",
+      "fecha_utc": "2026-06-16T22:00:00Z",
+      "estadio": "Gillette Stadium, Boston",
+      "local": { "nombre": "Irak", "codigo_iso": "IQ", "goles": 0 },
+      "visitante": { "nombre": "Noruega", "codigo_iso": "NO", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 19,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo J",
+      "fecha_display": "Mar, 16/6",
+      "fecha_utc": "2026-06-17T01:00:00Z",
+      "estadio": "Arrowhead Stadium, Kansas City",
+      "local": { "nombre": "Argentina", "codigo_iso": "AR", "goles": 0 },
+      "visitante": { "nombre": "Argelia", "codigo_iso": "DZ", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 20,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo J",
+      "fecha_display": "Mar, 16/6",
+      "fecha_utc": "2026-06-17T04:00:00Z",
+      "estadio": "Levi's Stadium, San Francisco",
+      "local": { "nombre": "Austria", "codigo_iso": "AT", "goles": 0 },
+      "visitante": { "nombre": "Jordania", "codigo_iso": "JO", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 21,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo K",
+      "fecha_display": "Mié, 17/6",
+      "fecha_utc": "2026-06-17T17:00:00Z",
+      "estadio": "NRG Stadium, Houston",
+      "local": { "nombre": "Portugal", "codigo_iso": "PT", "goles": 0 },
+      "visitante": { "nombre": "RD Congo", "codigo_iso": "CD", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 22,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo K",
+      "fecha_display": "Mié, 17/6",
+      "fecha_utc": "2026-06-18T02:00:00Z",
+      "estadio": "Estadio Azteca, CDMX",
+      "local": { "nombre": "Uzbekistán", "codigo_iso": "UZ", "goles": 0 },
+      "visitante": { "nombre": "Colombia", "codigo_iso": "CO", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 23,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo L",
+      "fecha_display": "Mié, 17/6",
+      "fecha_utc": "2026-06-17T20:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "Inglaterra", "codigo_iso": "ENG", "goles": 0 },
+      "visitante": { "nombre": "Croacia", "codigo_iso": "HR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 24,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo L",
+      "fecha_display": "Mié, 17/6",
+      "fecha_utc": "2026-06-17T23:00:00Z",
+      "estadio": "BMO Field, Toronto",
+      "local": { "nombre": "Ghana", "codigo_iso": "GH", "goles": 0 },
+      "visitante": { "nombre": "Panamá", "codigo_iso": "PA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 25,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo A",
+      "fecha_display": "Jue, 18/6",
+      "fecha_utc": "2026-06-18T16:00:00Z",
+      "estadio": "Mercedes-Benz Stadium, Atlanta",
+      "local": { "nombre": "Chequia", "codigo_iso": "CZ", "goles": 0 },
+      "visitante": { "nombre": "Sudáfrica", "codigo_iso": "ZA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 26,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo A",
+      "fecha_display": "Jue, 18/6",
+      "fecha_utc": "2026-06-19T01:00:00Z",
+      "estadio": "Estadio Akron, Guadalajara",
+      "local": { "nombre": "México", "codigo_iso": "MX", "goles": 0 },
+      "visitante": { "nombre": "Corea del Sur", "codigo_iso": "KR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 27,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo B",
+      "fecha_display": "Jue, 18/6",
+      "fecha_utc": "2026-06-18T19:00:00Z",
+      "estadio": "SoFi Stadium, Los Ángeles",
+      "local": { "nombre": "Suiza", "codigo_iso": "CH", "goles": 0 },
+      "visitante": { "nombre": "Bosnia y Herzegovina", "codigo_iso": "BA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 28,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo B",
+      "fecha_display": "Jue, 18/6",
+      "fecha_utc": "2026-06-18T22:00:00Z",
+      "estadio": "BC Place, Vancouver",
+      "local": { "nombre": "Canadá", "codigo_iso": "CA", "goles": 0 },
+      "visitante": { "nombre": "Catar", "codigo_iso": "QA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 29,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo C",
+      "fecha_display": "Vie, 19/6",
+      "fecha_utc": "2026-06-19T22:00:00Z",
+      "estadio": "Gillette Stadium, Boston",
+      "local": { "nombre": "Escocia", "codigo_iso": "SCT", "goles": 0 },
+      "visitante": { "nombre": "Marruecos", "codigo_iso": "MA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 30,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo C",
+      "fecha_display": "Vie, 19/6",
+      "fecha_utc": "2026-06-20T00:30:00Z",
+      "estadio": "Lincoln Financial Field, Filadelfia",
+      "local": { "nombre": "Brasil", "codigo_iso": "BR", "goles": 0 },
+      "visitante": { "nombre": "Haití", "codigo_iso": "HT", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 31,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo D",
+      "fecha_display": "Vie, 19/6",
+      "fecha_utc": "2026-06-19T19:00:00Z",
+      "estadio": "Lumen Field, Seattle",
+      "local": { "nombre": "Estados Unidos", "codigo_iso": "US", "goles": 0 },
+      "visitante": { "nombre": "Australia", "codigo_iso": "AU", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 32,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo D",
+      "fecha_display": "Vie, 19/6",
+      "fecha_utc": "2026-06-20T03:00:00Z",
+      "estadio": "Levi's Stadium, San Francisco",
+      "local": { "nombre": "Turquía", "codigo_iso": "TR", "goles": 0 },
+      "visitante": { "nombre": "Paraguay", "codigo_iso": "PY", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 33,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo E",
+      "fecha_display": "Sáb, 20/6",
+      "fecha_utc": "2026-06-20T20:00:00Z",
+      "estadio": "BMO Field, Toronto",
+      "local": { "nombre": "Alemania", "codigo_iso": "DE", "goles": 0 },
+      "visitante": { "nombre": "Costa de Marfil", "codigo_iso": "CI", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 34,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo E",
+      "fecha_display": "Sáb, 20/6",
+      "fecha_utc": "2026-06-21T00:00:00Z",
+      "estadio": "Arrowhead Stadium, Kansas City",
+      "local": { "nombre": "Ecuador", "codigo_iso": "EC", "goles": 0 },
+      "visitante": { "nombre": "Curazao", "codigo_iso": "CW", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 35,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo F",
+      "fecha_display": "Sáb, 20/6",
+      "fecha_utc": "2026-06-20T17:00:00Z",
+      "estadio": "NRG Stadium, Houston",
+      "local": { "nombre": "Países Bajos", "codigo_iso": "NL", "goles": 0 },
+      "visitante": { "nombre": "Suecia", "codigo_iso": "SE", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 36,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo F",
+      "fecha_display": "Sáb, 20/6",
+      "fecha_utc": "2026-06-21T04:00:00Z",
+      "estadio": "Estadio BBVA, Monterrey",
+      "local": { "nombre": "Túnez", "codigo_iso": "TN", "goles": 0 },
+      "visitante": { "nombre": "Japón", "codigo_iso": "JP", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 37,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo G",
+      "fecha_display": "Dom, 21/6",
+      "fecha_utc": "2026-06-21T19:00:00Z",
+      "estadio": "SoFi Stadium, Los Ángeles",
+      "local": { "nombre": "Bélgica", "codigo_iso": "BE", "goles": 0 },
+      "visitante": { "nombre": "Irán", "codigo_iso": "IR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 38,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo G",
+      "fecha_display": "Dom, 21/6",
+      "fecha_utc": "2026-06-22T01:00:00Z",
+      "estadio": "BC Place, Vancouver",
+      "local": { "nombre": "Nueva Zelanda", "codigo_iso": "NZ", "goles": 0 },
+      "visitante": { "nombre": "Egipto", "codigo_iso": "EG", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 39,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo H",
+      "fecha_display": "Dom, 21/6",
+      "fecha_utc": "2026-06-21T16:00:00Z",
+      "estadio": "Mercedes-Benz Stadium, Atlanta",
+      "local": { "nombre": "España", "codigo_iso": "ES", "goles": 0 },
+      "visitante": { "nombre": "Arabia Saudita", "codigo_iso": "SA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 40,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo H",
+      "fecha_display": "Dom, 21/6",
+      "fecha_utc": "2026-06-21T22:00:00Z",
+      "estadio": "Hard Rock Stadium, Miami",
+      "local": { "nombre": "Uruguay", "codigo_iso": "UY", "goles": 0 },
+      "visitante": { "nombre": "Cabo Verde", "codigo_iso": "CV", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 41,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo I",
+      "fecha_display": "Lun, 22/6",
+      "fecha_utc": "2026-06-22T21:00:00Z",
+      "estadio": "Lincoln Financial Field, Filadelfia",
+      "local": { "nombre": "Francia", "codigo_iso": "FR", "goles": 0 },
+      "visitante": { "nombre": "Irak", "codigo_iso": "IQ", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 42,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo I",
+      "fecha_display": "Lun, 22/6",
+      "fecha_utc": "2026-06-23T00:00:00Z",
+      "estadio": "MetLife Stadium, Nueva York",
+      "local": { "nombre": "Noruega", "codigo_iso": "NO", "goles": 0 },
+      "visitante": { "nombre": "Senegal", "codigo_iso": "SN", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 43,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo J",
+      "fecha_display": "Lun, 22/6",
+      "fecha_utc": "2026-06-22T17:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "Argentina", "codigo_iso": "AR", "goles": 0 },
+      "visitante": { "nombre": "Austria", "codigo_iso": "AT", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 44,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo J",
+      "fecha_display": "Lun, 22/6",
+      "fecha_utc": "2026-06-23T03:00:00Z",
+      "estadio": "Levi's Stadium, San Francisco",
+      "local": { "nombre": "Jordania", "codigo_iso": "JO", "goles": 0 },
+      "visitante": { "nombre": "Argelia", "codigo_iso": "DZ", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 45,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo K",
+      "fecha_display": "Mar, 23/6",
+      "fecha_utc": "2026-06-23T17:00:00Z",
+      "estadio": "NRG Stadium, Houston",
+      "local": { "nombre": "Portugal", "codigo_iso": "PT", "goles": 0 },
+      "visitante": { "nombre": "Uzbekistán", "codigo_iso": "UZ", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 46,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo K",
+      "fecha_display": "Mar, 23/6",
+      "fecha_utc": "2026-06-24T02:00:00Z",
+      "estadio": "Estadio Akron, Guadalajara",
+      "local": { "nombre": "Colombia", "codigo_iso": "CO", "goles": 0 },
+      "visitante": { "nombre": "RD Congo", "codigo_iso": "CD", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 47,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo L",
+      "fecha_display": "Mar, 23/6",
+      "fecha_utc": "2026-06-23T20:00:00Z",
+      "estadio": "Gillette Stadium, Boston",
+      "local": { "nombre": "Inglaterra", "codigo_iso": "ENG", "goles": 0 },
+      "visitante": { "nombre": "Ghana", "codigo_iso": "GH", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 48,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo L",
+      "fecha_display": "Mar, 23/6",
+      "fecha_utc": "2026-06-23T23:00:00Z",
+      "estadio": "BMO Field, Toronto",
+      "local": { "nombre": "Panamá", "codigo_iso": "PA", "goles": 0 },
+      "visitante": { "nombre": "Croacia", "codigo_iso": "HR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 49,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo A",
+      "fecha_display": "Mié, 24/6",
+      "fecha_utc": "2026-06-25T01:00:00Z",
+      "estadio": "Estadio Azteca, CDMX",
+      "local": { "nombre": "Chequia", "codigo_iso": "CZ", "goles": 0 },
+      "visitante": { "nombre": "México", "codigo_iso": "MX", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 50,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo A",
+      "fecha_display": "Mié, 24/6",
+      "fecha_utc": "2026-06-25T01:00:00Z",
+      "estadio": "Estadio BBVA, Monterrey",
+      "local": { "nombre": "Sudáfrica", "codigo_iso": "ZA", "goles": 0 },
+      "visitante": { "nombre": "Corea del Sur", "codigo_iso": "KR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 51,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo B",
+      "fecha_display": "Mié, 24/6",
+      "fecha_utc": "2026-06-24T19:00:00Z",
+      "estadio": "BC Place, Vancouver",
+      "local": { "nombre": "Suiza", "codigo_iso": "CH", "goles": 0 },
+      "visitante": { "nombre": "Canadá", "codigo_iso": "CA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 52,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo B",
+      "fecha_display": "Mié, 24/6",
+      "fecha_utc": "2026-06-24T19:00:00Z",
+      "estadio": "Lumen Field, Seattle",
+      "local": { "nombre": "Bosnia y Herzegovina", "codigo_iso": "BA", "goles": 0 },
+      "visitante": { "nombre": "Catar", "codigo_iso": "QA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 53,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo C",
+      "fecha_display": "Mié, 24/6",
+      "fecha_utc": "2026-06-24T22:00:00Z",
+      "estadio": "Hard Rock Stadium, Miami",
+      "local": { "nombre": "Escocia", "codigo_iso": "SCT", "goles": 0 },
+      "visitante": { "nombre": "Brasil", "codigo_iso": "BR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 54,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo C",
+      "fecha_display": "Mié, 24/6",
+      "fecha_utc": "2026-06-24T22:00:00Z",
+      "estadio": "Mercedes-Benz Stadium, Atlanta",
+      "local": { "nombre": "Marruecos", "codigo_iso": "MA", "goles": 0 },
+      "visitante": { "nombre": "Haití", "codigo_iso": "HT", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 55,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo E",
+      "fecha_display": "Jue, 25/6",
+      "fecha_utc": "2026-06-25T20:00:00Z",
+      "estadio": "Lincoln Financial Field, Filadelfia",
+      "local": { "nombre": "Curazao", "codigo_iso": "CW", "goles": 0 },
+      "visitante": { "nombre": "Costa de Marfil", "codigo_iso": "CI", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 56,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo E",
+      "fecha_display": "Jue, 25/6",
+      "fecha_utc": "2026-06-25T20:00:00Z",
+      "estadio": "MetLife Stadium, Nueva York",
+      "local": { "nombre": "Ecuador", "codigo_iso": "EC", "goles": 0 },
+      "visitante": { "nombre": "Alemania", "codigo_iso": "DE", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 57,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo F",
+      "fecha_display": "Jue, 25/6",
+      "fecha_utc": "2026-06-25T23:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "Japón", "codigo_iso": "JP", "goles": 0 },
+      "visitante": { "nombre": "Suecia", "codigo_iso": "SE", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 58,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo F",
+      "fecha_display": "Jue, 25/6",
+      "fecha_utc": "2026-06-25T23:00:00Z",
+      "estadio": "Arrowhead Stadium, Kansas City",
+      "local": { "nombre": "Túnez", "codigo_iso": "TN", "goles": 0 },
+      "visitante": { "nombre": "Países Bajos", "codigo_iso": "NL", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 59,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo D",
+      "fecha_display": "Jue, 25/6",
+      "fecha_utc": "2026-06-26T02:00:00Z",
+      "estadio": "SoFi Stadium, Los Ángeles",
+      "local": { "nombre": "Turquía", "codigo_iso": "TR", "goles": 0 },
+      "visitante": { "nombre": "Estados Unidos", "codigo_iso": "US", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 60,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo D",
+      "fecha_display": "Jue, 25/6",
+      "fecha_utc": "2026-06-26T02:00:00Z",
+      "estadio": "Levi's Stadium, San Francisco",
+      "local": { "nombre": "Paraguay", "codigo_iso": "PY", "goles": 0 },
+      "visitante": { "nombre": "Australia", "codigo_iso": "AU", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 61,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo G",
+      "fecha_display": "Vie, 26/6",
+      "fecha_utc": "2026-06-27T03:00:00Z",
+      "estadio": "Lumen Field, Seattle",
+      "local": { "nombre": "Egipto", "codigo_iso": "EG", "goles": 0 },
+      "visitante": { "nombre": "Irán", "codigo_iso": "IR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 62,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo G",
+      "fecha_display": "Vie, 26/6",
+      "fecha_utc": "2026-06-27T03:00:00Z",
+      "estadio": "BC Place, Vancouver",
+      "local": { "nombre": "Nueva Zelanda", "codigo_iso": "NZ", "goles": 0 },
+      "visitante": { "nombre": "Bélgica", "codigo_iso": "BE", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 63,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo H",
+      "fecha_display": "Vie, 26/6",
+      "fecha_utc": "2026-06-27T00:00:00Z",
+      "estadio": "NRG Stadium, Houston",
+      "local": { "nombre": "Cabo Verde", "codigo_iso": "CV", "goles": 0 },
+      "visitante": { "nombre": "Arabia Saudita", "codigo_iso": "SA", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 64,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo H",
+      "fecha_display": "Vie, 26/6",
+      "fecha_utc": "2026-06-27T00:00:00Z",
+      "estadio": "Estadio Akron, Guadalajara",
+      "local": { "nombre": "Uruguay", "codigo_iso": "UY", "goles": 0 },
+      "visitante": { "nombre": "España", "codigo_iso": "ES", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 65,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo I",
+      "fecha_display": "Vie, 26/6",
+      "fecha_utc": "2026-06-26T19:00:00Z",
+      "estadio": "Gillette Stadium, Boston",
+      "local": { "nombre": "Noruega", "codigo_iso": "NO", "goles": 0 },
+      "visitante": { "nombre": "Francia", "codigo_iso": "FR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 66,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo I",
+      "fecha_display": "Vie, 26/6",
+      "fecha_utc": "2026-06-26T19:00:00Z",
+      "estadio": "BMO Field, Toronto",
+      "local": { "nombre": "Senegal", "codigo_iso": "SN", "goles": 0 },
+      "visitante": { "nombre": "Irak", "codigo_iso": "IQ", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 67,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo J",
+      "fecha_display": "Sáb, 27/6",
+      "fecha_utc": "2026-06-28T02:00:00Z",
+      "estadio": "Arrowhead Stadium, Kansas City",
+      "local": { "nombre": "Argelia", "codigo_iso": "DZ", "goles": 0 },
+      "visitante": { "nombre": "Austria", "codigo_iso": "AT", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 68,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo J",
+      "fecha_display": "Sáb, 27/6",
+      "fecha_utc": "2026-06-28T02:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "Jordania", "codigo_iso": "JO", "goles": 0 },
+      "visitante": { "nombre": "Argentina", "codigo_iso": "AR", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 69,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo K",
+      "fecha_display": "Sáb, 27/6",
+      "fecha_utc": "2026-06-27T23:30:00Z",
+      "estadio": "Hard Rock Stadium, Miami",
+      "local": { "nombre": "Colombia", "codigo_iso": "CO", "goles": 0 },
+      "visitante": { "nombre": "Portugal", "codigo_iso": "PT", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 70,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo K",
+      "fecha_display": "Sáb, 27/6",
+      "fecha_utc": "2026-06-27T23:30:00Z",
+      "estadio": "Mercedes-Benz Stadium, Atlanta",
+      "local": { "nombre": "RD Congo", "codigo_iso": "CD", "goles": 0 },
+      "visitante": { "nombre": "Uzbekistán", "codigo_iso": "UZ", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 71,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo L",
+      "fecha_display": "Sáb, 27/6",
+      "fecha_utc": "2026-06-27T21:00:00Z",
+      "estadio": "MetLife Stadium, Nueva York",
+      "local": { "nombre": "Panamá", "codigo_iso": "PA", "goles": 0 },
+      "visitante": { "nombre": "Inglaterra", "codigo_iso": "ENG", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 72,
+      "fase": "Fase de grupos",
+      "grupo": "Grupo L",
+      "fecha_display": "Sáb, 27/6",
+      "fecha_utc": "2026-06-27T21:00:00Z",
+      "estadio": "Lincoln Financial Field, Filadelfia",
+      "local": { "nombre": "Croacia", "codigo_iso": "HR", "goles": 0 },
+      "visitante": { "nombre": "Ghana", "codigo_iso": "GH", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 73,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Dom, 28/6",
+      "fecha_utc": "2026-06-28T19:00:00Z",
+      "estadio": "SoFi Stadium, Los Ángeles",
+      "local": { "nombre": "2do Grupo A", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "2do Grupo B", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 74,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Lun, 29/6",
+      "fecha_utc": "2026-06-29T20:30:00Z",
+      "estadio": "Gillette Stadium, Boston",
+      "local": { "nombre": "1ro Grupo E", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "3ro A/B/C/D/F", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 75,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Lun, 29/6",
+      "fecha_utc": "2026-06-30T01:00:00Z",
+      "estadio": "Estadio BBVA, Monterrey",
+      "local": { "nombre": "1ro Grupo F", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "2do Grupo C", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 76,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Lun, 29/6",
+      "fecha_utc": "2026-06-29T17:00:00Z",
+      "estadio": "NRG Stadium, Houston",
+      "local": { "nombre": "1ro Grupo C", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "2do Grupo F", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 77,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Mar, 30/6",
+      "fecha_utc": "2026-06-30T21:00:00Z",
+      "estadio": "MetLife Stadium, Nueva York",
+      "local": { "nombre": "1ro Grupo I", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "3ro C/D/F/G/H", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 78,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Mar, 30/6",
+      "fecha_utc": "2026-06-30T17:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "2do Grupo E", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "2do Grupo I", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 79,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Mar, 30/6",
+      "fecha_utc": "2026-07-01T01:00:00Z",
+      "estadio": "Estadio Azteca, CDMX",
+      "local": { "nombre": "1ro Grupo A", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "3ro C/E/F/H/I", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 80,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Mié, 1/7",
+      "fecha_utc": "2026-07-01T16:00:00Z",
+      "estadio": "Mercedes-Benz Stadium, Atlanta",
+      "local": { "nombre": "1ro Grupo L", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "3ro E/H/I/J/K", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 81,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Mié, 1/7",
+      "fecha_utc": "2026-07-02T00:00:00Z",
+      "estadio": "Levi's Stadium, San Francisco",
+      "local": { "nombre": "1ro Grupo D", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "3ro B/E/F/I/J", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 82,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Mié, 1/7",
+      "fecha_utc": "2026-07-01T20:00:00Z",
+      "estadio": "Lumen Field, Seattle",
+      "local": { "nombre": "1ro Grupo G", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "3ro A/E/H/I/J", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 83,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Jue, 2/7",
+      "fecha_utc": "2026-07-02T23:00:00Z",
+      "estadio": "BMO Field, Toronto",
+      "local": { "nombre": "2do Grupo K", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "2do Grupo L", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 84,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Jue, 2/7",
+      "fecha_utc": "2026-07-02T19:00:00Z",
+      "estadio": "SoFi Stadium, Los Ángeles",
+      "local": { "nombre": "1ro Grupo H", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "2do Grupo J", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 85,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Jue, 2/7",
+      "fecha_utc": "2026-07-03T03:00:00Z",
+      "estadio": "BC Place, Vancouver",
+      "local": { "nombre": "1ro Grupo B", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "3ro E/F/G/I/J", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 86,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Vie, 3/7",
+      "fecha_utc": "2026-07-03T22:00:00Z",
+      "estadio": "Hard Rock Stadium, Miami",
+      "local": { "nombre": "1ro Grupo J", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "2do Grupo H", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 87,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Vie, 3/7",
+      "fecha_utc": "2026-07-04T01:30:00Z",
+      "estadio": "Arrowhead Stadium, Kansas City",
+      "local": { "nombre": "1ro Grupo K", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "3ro D/E/I/J/L", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 88,
+      "fase": "Dieciseisavos de final",
+      "grupo": "",
+      "fecha_display": "Vie, 3/7",
+      "fecha_utc": "2026-07-03T18:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "2do Grupo D", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "2do Grupo G", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 89,
+      "fase": "Octavos de final",
+      "grupo": "",
+      "fecha_display": "Sáb, 4/7",
+      "fecha_utc": "2026-07-04T21:00:00Z",
+      "estadio": "Lincoln Financial Field, Filadelfia",
+      "local": { "nombre": "Ganador 74", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 77", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 90,
+      "fase": "Octavos de final",
+      "grupo": "",
+      "fecha_display": "Sáb, 4/7",
+      "fecha_utc": "2026-07-04T17:00:00Z",
+      "estadio": "NRG Stadium, Houston",
+      "local": { "nombre": "Ganador 73", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 75", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 91,
+      "fase": "Octavos de final",
+      "grupo": "",
+      "fecha_display": "Dom, 5/7",
+      "fecha_utc": "2026-07-05T20:00:00Z",
+      "estadio": "MetLife Stadium, Nueva York",
+      "local": { "nombre": "Ganador 76", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 78", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 92,
+      "fase": "Octavos de final",
+      "grupo": "",
+      "fecha_display": "Dom, 5/7",
+      "fecha_utc": "2026-07-06T00:00:00Z",
+      "estadio": "Estadio Azteca, CDMX",
+      "local": { "nombre": "Ganador 79", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 80", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 93,
+      "fase": "Octavos de final",
+      "grupo": "",
+      "fecha_display": "Lun, 6/7",
+      "fecha_utc": "2026-07-06T19:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "Ganador 83", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 84", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 94,
+      "fase": "Octavos de final",
+      "grupo": "",
+      "fecha_display": "Lun, 6/7",
+      "fecha_utc": "2026-07-07T00:00:00Z",
+      "estadio": "Lumen Field, Seattle",
+      "local": { "nombre": "Ganador 81", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 82", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 95,
+      "fase": "Octavos de final",
+      "grupo": "",
+      "fecha_display": "Mar, 7/7",
+      "fecha_utc": "2026-07-07T16:00:00Z",
+      "estadio": "Mercedes-Benz Stadium, Atlanta",
+      "local": { "nombre": "Ganador 86", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 88", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 96,
+      "fase": "Octavos de final",
+      "grupo": "",
+      "fecha_display": "Mar, 7/7",
+      "fecha_utc": "2026-07-07T20:00:00Z",
+      "estadio": "BC Place, Vancouver",
+      "local": { "nombre": "Ganador 85", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 87", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 97,
+      "fase": "Cuartos de final",
+      "grupo": "",
+      "fecha_display": "Jue, 9/7",
+      "fecha_utc": "2026-07-09T20:00:00Z",
+      "estadio": "Gillette Stadium, Boston",
+      "local": { "nombre": "Ganador 89", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 90", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 98,
+      "fase": "Cuartos de final",
+      "grupo": "",
+      "fecha_display": "Vie, 10/7",
+      "fecha_utc": "2026-07-10T19:00:00Z",
+      "estadio": "SoFi Stadium, Los Ángeles",
+      "local": { "nombre": "Ganador 93", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 94", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 99,
+      "fase": "Cuartos de final",
+      "grupo": "",
+      "fecha_display": "Sáb, 11/7",
+      "fecha_utc": "2026-07-11T21:00:00Z",
+      "estadio": "Hard Rock Stadium, Miami",
+      "local": { "nombre": "Ganador 91", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 92", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 100,
+      "fase": "Cuartos de final",
+      "grupo": "",
+      "fecha_display": "Sáb, 11/7",
+      "fecha_utc": "2026-07-12T01:00:00Z",
+      "estadio": "Arrowhead Stadium, Kansas City",
+      "local": { "nombre": "Ganador 95", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 96", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 101,
+      "fase": "Semifinal",
+      "grupo": "",
+      "fecha_display": "Mar, 14/7",
+      "fecha_utc": "2026-07-14T19:00:00Z",
+      "estadio": "AT&T Stadium, Dallas",
+      "local": { "nombre": "Ganador 97", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 98", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 102,
+      "fase": "Semifinal",
+      "grupo": "",
+      "fecha_display": "Mié, 15/7",
+      "fecha_utc": "2026-07-15T19:00:00Z",
+      "estadio": "Mercedes-Benz Stadium, Atlanta",
+      "local": { "nombre": "Ganador 99", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 100", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 103,
+      "fase": "Tercer puesto",
+      "grupo": "",
+      "fecha_display": "Sáb, 18/7",
+      "fecha_utc": "2026-07-18T21:00:00Z",
+      "estadio": "Hard Rock Stadium, Miami",
+      "local": { "nombre": "Perdedor 101", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Perdedor 102", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
+    },
+    {
+      "id": 104,
+      "fase": "Final",
+      "grupo": "",
+      "fecha_display": "Dom, 19/7",
+      "fecha_utc": "2026-07-19T19:00:00Z",
+      "estadio": "MetLife Stadium, Nueva York",
+      "local": { "nombre": "Ganador 101", "codigo_iso": "", "goles": 0 },
+      "visitante": { "nombre": "Ganador 102", "codigo_iso": "", "goles": 0 },
+      "estado": "POR_JUGAR"
     }
   ],
   "posiciones_grupos": [
@@ -94,14 +1172,90 @@
       "grupo": "Grupo C",
       "tabla": [
         { "posicion": 1, "equipo": "Brasil", "codigo_iso": "BR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
-        { "posicion": 2, "equipo": "Marruecos", "codigo_iso": "MA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+        { "posicion": 2, "equipo": "Marruecos", "codigo_iso": "MA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Haití", "codigo_iso": "HT", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Escocia", "codigo_iso": "SCT", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
       ]
     },
     {
       "grupo": "Grupo D",
       "tabla": [
         { "posicion": 1, "equipo": "Estados Unidos", "codigo_iso": "US", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
-        { "posicion": 2, "equipo": "Paraguay", "codigo_iso": "PY", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+        { "posicion": 2, "equipo": "Paraguay", "codigo_iso": "PY", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Australia", "codigo_iso": "AU", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Turquía", "codigo_iso": "TR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo E",
+      "tabla": [
+        { "posicion": 1, "equipo": "Alemania", "codigo_iso": "DE", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Ecuador", "codigo_iso": "EC", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Costa de Marfil", "codigo_iso": "CI", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Curazao", "codigo_iso": "CW", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo F",
+      "tabla": [
+        { "posicion": 1, "equipo": "Países Bajos", "codigo_iso": "NL", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Suecia", "codigo_iso": "SE", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Japón", "codigo_iso": "JP", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Túnez", "codigo_iso": "TN", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo G",
+      "tabla": [
+        { "posicion": 1, "equipo": "Bélgica", "codigo_iso": "BE", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Irán", "codigo_iso": "IR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Egipto", "codigo_iso": "EG", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Nueva Zelanda", "codigo_iso": "NZ", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo H",
+      "tabla": [
+        { "posicion": 1, "equipo": "España", "codigo_iso": "ES", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Uruguay", "codigo_iso": "UY", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Arabia Saudita", "codigo_iso": "SA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Cabo Verde", "codigo_iso": "CV", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo I",
+      "tabla": [
+        { "posicion": 1, "equipo": "Francia", "codigo_iso": "FR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Noruega", "codigo_iso": "NO", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Senegal", "codigo_iso": "SN", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Irak", "codigo_iso": "IQ", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo J",
+      "tabla": [
+        { "posicion": 1, "equipo": "Argentina", "codigo_iso": "AR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Austria", "codigo_iso": "AT", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Argelia", "codigo_iso": "DZ", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Jordania", "codigo_iso": "JO", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo K",
+      "tabla": [
+        { "posicion": 1, "equipo": "Portugal", "codigo_iso": "PT", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Colombia", "codigo_iso": "CO", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Uzbekistán", "codigo_iso": "UZ", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "RD Congo", "codigo_iso": "CD", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+      ]
+    },
+    {
+      "grupo": "Grupo L",
+      "tabla": [
+        { "posicion": 1, "equipo": "Inglaterra", "codigo_iso": "ENG", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 2, "equipo": "Croacia", "codigo_iso": "HR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Ghana", "codigo_iso": "GH", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Panamá", "codigo_iso": "PA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
       ]
     }
   ]
