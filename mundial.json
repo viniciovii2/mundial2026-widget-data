@@ -11,9 +11,9 @@
       "fecha_display": "Jue, 11/6",
       "fecha_utc": "2026-06-11T19:00:00Z",
       "estadio": "Estadio Azteca, CDMX",
-      "local": { "nombre": "México", "codigo_iso": "MX", "goles": 0 },
+      "local": { "nombre": "México", "codigo_iso": "MX", "goles": 2 },
       "visitante": { "nombre": "Sudáfrica", "codigo_iso": "ZA", "goles": 0 },
-      "estado": "POR_JUGAR"
+      "estado": "FINALIZADO"
     },
     {
       "id": 2,
@@ -1153,10 +1153,10 @@
     {
       "grupo": "Grupo A",
       "tabla": [
-        { "posicion": 1, "equipo": "México", "codigo_iso": "MX", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
-        { "posicion": 2, "equipo": "Sudáfrica", "codigo_iso": "ZA", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
-        { "posicion": 3, "equipo": "Corea del Sur", "codigo_iso": "KR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
-        { "posicion": 4, "equipo": "Chequia", "codigo_iso": "CZ", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 }
+        { "posicion": 1, "equipo": "México", "codigo_iso": "MX", "pj": 1, "g": 1, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 2, "pts": 3 },
+        { "posicion": 2, "equipo": "Corea del Sur", "codigo_iso": "KR", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 3, "equipo": "Chequia", "codigo_iso": "CZ", "pj": 0, "g": 0, "e": 0, "p": 0, "gf": 0, "gc": 0, "gd": 0, "pts": 0 },
+        { "posicion": 4, "equipo": "Sudáfrica", "codigo_iso": "ZA", "pj": 1, "g": 0, "e": 0, "p": 1, "gf": 0, "gc": 0, "gd": -2, "pts": 0 }
       ]
     },
     {
